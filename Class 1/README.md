@@ -60,6 +60,9 @@ An algorithm is said to have a linear time complexity when the running time incr
 
 #### Reference
 https://developers.google.com/edu/python/lists
-https://towardsdatascience.com/two-pointer-approach-python-code-f3986b602640
-https://towardsdatascience.com/complexity-theory-101-introduction-to-big-o-bab99152ad44
+
+https://towardsdatascience.com/two-pointer-approach-python-code-f3986b602640 
+
+https://towardsdatascience.com/complexity-theory-101-introduction-to-big-o-bab99152ad44 
+
 https://www.bigocheatsheet.com/
