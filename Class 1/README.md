@@ -64,7 +64,9 @@ The main purpose of this algorithm is to reduce the complexity of **O(n^3) or O(
 
 ### Home Work 
 Study Time & Space complexity
+
 List & Array
+
 Solve Leet Code Problem 1 : Two Sum
 
 
@@ -77,4 +79,6 @@ https://towardsdatascience.com/two-pointer-approach-python-code-f3986b602640
 https://towardsdatascience.com/complexity-theory-101-introduction-to-big-o-bab99152ad44 
 
 https://www.bigocheatsheet.com/
+
+https://www.youtube.com/watch?v=fyS5nrfJBz4 (What is Complexity Bangla Sharif Chowdhury) 
 
