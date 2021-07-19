@@ -11,7 +11,7 @@ Basic Data Structure Discussion
 **2.** List in Python
 
 ## What is List in Python
-A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. Each element or value that is inside of a list is called an item. Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ] .
+A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. Each element or value that is inside of a list is called an item. Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ].
 
 ## How Array or List Works
 An array is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key.
@@ -31,7 +31,8 @@ There are different notations we can use to express space complexity measurement
 #### What is Complexity?
 Complexity of an algorithm is a measure of the amount of time and/or space required by an algorithm for an input of a given size (n).
 ![](https://i.ibb.co/r4k2TgS/timecomplex.jpg)
-#### Types of Complexity?
+
+#### Types of Complexity
 1. Time Complexity
 2. Space Complexity
 
@@ -44,10 +45,8 @@ The time complexity of algorithms is most commonly expressed using the big O not
 #### Space Complexity
 Space complexity measures the total amount of memory that an algorithm or operation needs to run according to its input size.
 
-**There are different types of time complexities used. Class one Discuss This 2 Type 
-**
+**There are different types of time complexities used. Class one Discuss This 2 Type**
 1. Constant time – O (1)
-
 2. Linear time – O (n)
 
 #### Constant time – O (1)
@@ -56,7 +55,19 @@ An algorithm is said to have constant time with order O (1) when it is not depen
 #### Linear time – O(n)
 An algorithm is said to have a linear time complexity when the running time increases linearly with the length of the input. When the function involves checking all the values in an input data, such function has Time complexity with this order O(n).
 
-#### Two Pointer Algorithm
+#### What is Two Pointer Algorithm?
+**Two Pointer Technique** uses two-pointer in one loop over the given  data structure. It is commonly used for solving array, string, linked list coding problems.  
+  
+The main purpose of this algorithm is to reduce the complexity of **O(n^3) or O(n^2)** based solution to **Linear time solution**.
+
+![](https://i.ibb.co/r2WnPSR/2-pointer.png)
+
+### Home Work 
+Study Time & Space complexity
+List & Array
+Solve Leet Code Problem 1 : Two Sum
+
+
 
 #### Reference
 https://developers.google.com/edu/python/lists
@@ -66,3 +77,4 @@ https://towardsdatascience.com/two-pointer-approach-python-code-f3986b602640
 https://towardsdatascience.com/complexity-theory-101-introduction-to-big-o-bab99152ad44 
 
 https://www.bigocheatsheet.com/
+
