@@ -4,4 +4,4 @@ This Boot Camp Covers Data Structure and Algorithm Real World Practice How To De
 
 #### index
 
-- [class 1 [Basic Python and DSA] (18/7/2021)](https://github.com/thearyanahmed/learning-docker/tree/master/class_01) 
+- [Class 1 [Basic Python and DSA] (18/7/2021)](https://github.com/MimAhmed/Leet-Code-DSA-Interview-Bootcamp-Tecognize-/tree/main/Class%201)
