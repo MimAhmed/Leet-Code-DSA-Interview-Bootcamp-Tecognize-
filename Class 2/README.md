@@ -45,14 +45,43 @@ Inheritance is a mechanism that allows one class to gain the properties of anoth
 #### What is Polymorphism?
 Polymorphism is the ability of an object to take on many forms.
 
+#### Stack and Heap Memory
+When a program is running, it takes up memory. Sometimes we are not even aware of the memory being allocated. In fact, every time you create a new variable, your program is allocating more memory for you to store that variable. This article focuses on two kinds of memories: stack and heap.
 
+#### What is Stack?
+It is an array of memory.
+
+It is a LIFO (Last In First Out) data structure.
+
+In it data can be added to and deleted only from the top of it.
+
+#### Basic Operations
+
+**push() − Pushing (storing) an element on the stack.**
+
+**pop() − Removing (accessing) an element from the stack**
+
+![](https://i.ibb.co/Xk3WhWK/stack-representation.jpg)
+
+#### Whats is Heap?
+It is an area of memory where chunks are allocated to store certain kinds of data objects.
+
+In it data can be stored and removed in any order.
+#### Heap vs Stack
+Stack and Heap does not have a physical representation - it is a memory abstraction, so there is not physical difference between them, they are both in RAM.
+
+![](https://i.ibb.co/b5s9T2m/heapvsstack.png)
 ### Class Work 
 Find Plaindom Number.
 **Leet Code 125**
+
 ### What is Palindrome String?
 A string is said to be a palindrome if the string read from left to right is equal to the string read from right to left.
 
 ![](https://i.ibb.co/mBZNbz7/pdom.png)
+
+
+
 ### Home Work 
 ##### Leet Code Problems
 
@@ -61,10 +90,17 @@ A string is said to be a palindrome if the string read from left to right is equ
 Referfences:
 (OOP Basics)
 https://www.youtube.com/watch?v=SiBw7os-_zI
+
 https://fdhgjhjhukj.medium.com/object-oriented-programming-32bb0b9002d
+
 Four Pillar of OOP: https://www.freecodecamp.org/news/four-pillars-of-object-oriented-programming/
 https://www.educative.io/edpresso/what-is-abstraction-in-programming
 
+https://towardsdatascience.com/python-memory-and-objects-e7bec4a2845
+
+Stack & Heap: https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/memory.html
+https://courses.engr.illinois.edu/cs225/sp2021/resources/stack-heap
+https://www.c-sharpcorner.com/article/stack-vs-heap-memory-c-sharp/
 
 (Palindromes)
 https://nrich.maths.org/2574
