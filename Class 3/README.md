@@ -27,15 +27,17 @@ List of all its subsequences are {},{1},{2},{3},{4},{1,2},{1,3},{1,4},{2,3},{2,4
 > subarray refers to contiguous list whereas subsequence refers to non-contiguous list.
 
 
-
 #### What is a contiguous Subarray?
 A contiguous sub array can be any length, but it must be a subset of the original array and have the items in their respective order without any breaks. to access the next value in the array, we just move to the next memory address.
 
 #### What is mean by contiguous in computer science?
 In contiguous structures, terms of data are kept together in memory (either RAM or in a file). An array is an example of a contiguous structure. Since each element in the array is located next to one or two other elements.
 
+![](https://i.ibb.co/gt5bGtJ/contiguous-array.jpg)
+
 #### What is mean by non-contiguous in computer science?
 Items in a non-contiguous structure and scattered in memory, but we linked to each other in some way. A linked list is an example of a noncontiguous data structure
+
 
 ### Summery
 > A subarray has Order and Continuity.
@@ -44,13 +46,22 @@ Items in a non-contiguous structure and scattered in memory, but we linked to ea
 
 > A subset does not Order nor Continuity.
 
+#### What are Sorting Algorithms?
+Sorting algorithms are ways to organize an array of items from smallest to largest.
+
+#### Complexity of Sorting Algorithms?
+
+![](https://i.ibb.co/54Q5jQf/timecofsalgo.png)
+
+#### Big O Graph
+![](https://i.ibb.co/kJ9vS36/Big-O-Graph.png)
+
 ### Class Work
 
 Leet Code 53
 
 ### Home Work 
-##### Leet Code 53 Try to Solve in O(n).
-
+##### Leet Code 53 Try to Solve with O(n).
 
 #### Reference
 https://stackoverflow.com/questions/5298300/definition-of-subarray/45686639
@@ -60,3 +71,5 @@ https://medium.com/javarevisited/subarray-vs-subsequence-do-you-know-the-differe
 https://www.wikiwand.com/en/Subsequence
 
 https://stackoverflow.com/questions/26568560/difference-between-subarray-subset-subsequence
+
+https://www.geeksforgeeks.org/sorting-algorithms
