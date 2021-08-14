@@ -57,12 +57,12 @@ Sorting algorithms are ways to organize an array of items from smallest to large
 ![](https://i.ibb.co/kJ9vS36/Big-O-Graph.png)
 
 #### This is an alternative way of thinking about Big O Notation, from Tennessee-based cloud engineer Josh Carroll.
-> O(1) = O(yeah)
-> O(log n) = O(nice)
-> O(n) = O(ok)
-> O(n²) = O(my)
-> O(2ⁿ) = O(no)
-> O(n!) = O(mg!)
+- O(1) = O(yeah)
+- O(log n) = O(nice)
+- O(n) = O(ok)
+- O(n²) = O(my)
+- O(2ⁿ) = O(no)
+- O(n!) = O(mg!)
 
 ### Class Work
 
